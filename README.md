@@ -49,3 +49,17 @@ Project Overview
 Explored Azure Network Analytics to monitor virtual network traffic, review inbound and outbound connections, and investigate potentially suspicious activity. Practiced using KQL to filter network traffic by IP address, port, and traffic type, VirusTotal to research IP reputation, and Network Security Groups (NSGs) to manage traffic and restrict specified IP addresses. This lab strengthened my understanding of Azure network security, traffic analysis, and threat investigation.
 
 [View Full Project](https://github.com/taniquah57/Azure-KQL-Analysis-/edit/main/README.md)
+
+________________________________________________________________________________________________________________________________________________________________
+
+**Splunk Log Analysis & Security Monitoring Lab** 
+
+Project Overview 
+
+Developed a foundational understanding of how security analysts use Splunk to search log data, investigate account activity, identify potentially suspicious behavior, and support security monitoring and incident investigations.
+
+[View Full Project](https://github.com/taniquah57/Splunk-/blob/main/README.md)
+
+________________________________________________________________________________________________________________________________________________________________
+
+** Splunk 
