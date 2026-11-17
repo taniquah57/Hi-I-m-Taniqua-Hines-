@@ -8,10 +8,7 @@ I enjoy continuously learning, growing, and challenging myself. The ever-evolvin
 
 ________________________________________________________________________________________________________________________________________________________________
 
-Identity Access Management Projects
-
-Microsoft Azure – Role-Based Access Control (RBAC) & Administrative Roles
-
+## Identity Access Management Projects ##
 
 **Microsoft Azure – IAM & Administrative Roles**
 
@@ -22,7 +19,19 @@ Explored Microsoft Entra ID administrative roles and access management within Az
 [View Full Project](https://github.com/taniquah57/Access-Review)
 ________________________________________________________________________________________________________________________________________________________________
 
-## Azure Defender for Cloud Microsoft Sentinel Security Monitoring Lab ##
+**Azure Virtual Machine & Access Management Lab** 
+
+Project Overview 
+
+Explored Microsoft Azure Virtual Machine management, network security, and identity and access management. Practiced configuring Network Security Group (NSG) rules to restrict network traffic, reviewing secure VM connection methods, and managing permissions through Azure RBAC. Created three simulated employee accounts and assigned Microsoft Entra ID administrative roles based on job responsibilities to demonstrate role-based access control, privileged access management, and the principle of least privilege.
+
+[View Full Project](https://github.com/taniquah57/Azure)
+
+
+________________________________________________________________________________________________________________________________________________________________
+
+
+**Azure Defender for Cloud Microsoft Sentinel Security Monitoring Lab**
 
 Project Overview
 
@@ -33,7 +42,7 @@ The goal was to understand how Azure collects security and network activity logs
 
 ________________________________________________________________________________________________________________________________________________________________
 
-## Azure Network Analytics Lab ## 
+**Azure Network Analytics Lab**
 
 Project Overview 
 
