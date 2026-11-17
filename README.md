@@ -19,7 +19,7 @@ Explored Microsoft Entra ID administrative roles and access management within Az
 [View Full Project](https://github.com/taniquah57/Access-Review)
 ________________________________________________________________________________________________________________________________________________________________
 
-**Azure Defender for Cloud Microsoft Sentinel Security Monitoring Lab**
+## Azure Defender for Cloud Microsoft Sentinel Security Monitoring Lab ##
 Project Overview
 This lab explored Microsoft Defender for Cloud, Microsoft Sentinel, Windows Security Events, and Network Watcher.
 The goal was to understand how Azure collects security and network activity logs and how those logs can support security monitoring and threat detection.
@@ -27,3 +27,11 @@ The goal was to understand how Azure collects security and network activity logs
 [View Full Project](https://github.com/taniquah57/Azure-Defender-for-Cloud-Microsoft-Sentinel-Security-Monitoring-Lab)
 
 ________________________________________________________________________________________________________________________________________________________________
+
+## Azure Network Analytics Lab ## 
+
+Project Overview 
+
+Explored Azure Network Analytics to monitor virtual network traffic, review inbound and outbound connections, and investigate potentially suspicious activity. Practiced using KQL to filter network traffic by IP address, port, and traffic type, VirusTotal to research IP reputation, and Network Security Groups (NSGs) to manage traffic and restrict specified IP addresses. This lab strengthened my understanding of Azure network security, traffic analysis, and threat investigation.
+
+[View Full Project](https://github.com/taniquah57/Azure-KQL-Analysis-/edit/main/README.md)
