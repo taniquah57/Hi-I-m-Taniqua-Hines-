@@ -9,18 +9,23 @@ I enjoy continuously learning, growing, and challenging myself. The ever-evolvin
 ________________________________________________________________________________________________________________________________________________________________
 
 Identity Access Management Projects
+
 Microsoft Azure – Role-Based Access Control (RBAC) & Administrative Roles
-Microsoft Azure: Administrative Roles & Access Management
+
 
 **Microsoft Azure – IAM & Administrative Roles**
+
 Project Overview
+
 Explored Microsoft Entra ID administrative roles and access management within Azure, focusing on role-based access control (RBAC), privileged permissions, least privilege, and Conditional Access. Examined how administrative responsibilities are assigned and how access controls support organizational security and Zero Trust principles.
 
 [View Full Project](https://github.com/taniquah57/Access-Review)
 ________________________________________________________________________________________________________________________________________________________________
 
 ## Azure Defender for Cloud Microsoft Sentinel Security Monitoring Lab ##
+
 Project Overview
+
 This lab explored Microsoft Defender for Cloud, Microsoft Sentinel, Windows Security Events, and Network Watcher.
 The goal was to understand how Azure collects security and network activity logs and how those logs can support security monitoring and threat detection.
 
