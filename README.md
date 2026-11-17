@@ -19,4 +19,4 @@ Explored Microsoft Entra ID administrative roles and access management within Az
 Explored Microsoft Entra ID administrative roles, RBAC, 
 privileged permissions, and Conditional Access.
 
-[View Full Project](https://github.com/taniquaines/Azure-IAM-Administrative-Roles)
+[View Full Project] README.md(https://github.com/taniquaines/Azure-IAM-Administrative-Roles)
