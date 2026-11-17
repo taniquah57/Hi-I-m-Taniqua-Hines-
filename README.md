@@ -14,3 +14,9 @@ Microsoft Azure: Administrative Roles & Access Management
 **Microsoft Azure – IAM & Administrative Roles**
 
 Explored Microsoft Entra ID administrative roles and access management within Azure, focusing on role-based access control (RBAC), privileged permissions, least privilege, and Conditional Access. Examined how administrative responsibilities are assigned and how access controls support organizational security and Zero Trust principles.
+### Microsoft Azure – IAM & Administrative Roles
+
+Explored Microsoft Entra ID administrative roles, RBAC, 
+privileged permissions, and Conditional Access.
+
+[View Full Project](https://github.com/taniquaines/Azure-IAM-Administrative-Roles)
