@@ -14,9 +14,13 @@ Microsoft Azure: Administrative Roles & Access Management
 **Microsoft Azure – IAM & Administrative Roles**
 
 Explored Microsoft Entra ID administrative roles and access management within Azure, focusing on role-based access control (RBAC), privileged permissions, least privilege, and Conditional Access. Examined how administrative responsibilities are assigned and how access controls support organizational security and Zero Trust principles.
-### Microsoft Azure – IAM & Administrative Roles
-
-Explored Microsoft Entra ID administrative roles, RBAC, 
-privileged permissions, and Conditional Access.
 
 [View Full Project](https://github.com/taniquah57/Access-Review)
+
+##Project Overview 
+**Azure Defender for Cloud Microsoft Sentinel Security Monitoring Lab**
+
+This lab explored Microsoft Defender for Cloud, Microsoft Sentinel, Windows Security Events, and Network Watcher.
+The goal was to understand how Azure collects security and network activity logs and how those logs can support security monitoring and threat detection.
+
+[View Full Project](https://github.com/taniquah57/Azure-Defender-for-Cloud-Microsoft-Sentinel-Security-Monitoring-Lab)
