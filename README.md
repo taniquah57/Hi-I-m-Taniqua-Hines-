@@ -62,4 +62,12 @@ Developed a foundational understanding of how security analysts use Splunk to se
 
 ________________________________________________________________________________________________________________________________________________________________
 
-** Splunk 
+** Splunk Field Extraction & IP Address Investigation
+
+Project Overview 
+
+This lab explored Splunk field extraction and how extracted fields can help organize, filter, and investigate log data. I practiced identifying IP addresses within events, extracting fields using different methods, and understanding how extracted fields can be managed through Splunk settings. I also explored how IP address information can support network investigations and help identify suspicious communication.
+
+[View Full Project](https://github.com/taniquah57/Splunk-Field-Extraction/edit/main/README.md)
+
+________________________________________________________________________________________________________________________________________________________________
