@@ -71,3 +71,16 @@ This lab explored Splunk field extraction and how extracted fields can help orga
 [View Full Project](https://github.com/taniquah57/Splunk-Field-Extraction/edit/main/README.md)
 
 ________________________________________________________________________________________________________________________________________________________________
+
+**Splunk Event Filtering, Visualization & Dashboard Creation**
+
+Project Overview 
+
+This hands-on lab focused on searching, filtering, visualizing, and organizing network security events in Splunk. I worked with allowed and blocked traffic events and created visualizations to make network activity easier to interpret and monitor.
+
+[View Full Project](https://github.com/taniquah57/Splunk-Event-Filtering-Visualization-Dashboard-Creation/blob/main/README.md)
+
+
+
+
+
