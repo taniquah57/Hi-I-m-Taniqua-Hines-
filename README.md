@@ -62,7 +62,7 @@ Developed a foundational understanding of how security analysts use Splunk to se
 
 ________________________________________________________________________________________________________________________________________________________________
 
-** Splunk Field Extraction & IP Address Investigation
+**Splunk Field Extraction & IP Address Investigation**
 
 Project Overview 
 
